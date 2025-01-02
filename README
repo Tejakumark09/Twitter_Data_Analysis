@@ -1,0 +1,14 @@
+# Twitter Data Analysis Dashboard
+
+## Overview
+This project contains apower BI dashboard analyzing Twitter data, focusing on sentiment analysis, engagement metrics, and time-based trends.
+
+## Features
+- Sentiment Analysis
+- Engagement Metrices(Likes,Retweets)
+- Time-based Analysis
+
+## How to use
+1. Downlode file 'Twitter_Data_Analysis.pbix' file.
+2. open it in Power BI desktop
+3. Replace the dataset with your own (if needed) and refresh.                               
